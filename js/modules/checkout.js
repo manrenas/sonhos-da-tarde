@@ -172,7 +172,7 @@ export function iniciarCheckout() {
     }
 
 
-    const numeroEmpresa = '244926907474';
+    const numeroEmpresa = '244933690433';
 
     const urlWhatsApp =
         `https://wa.me/${numeroEmpresa}?text=${encodeURIComponent(mensagem)}`;
